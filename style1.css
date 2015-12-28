@@ -1,0 +1,23 @@
+strong {color: black;}
+
+#loginTable{
+border-style: solid;
+border-color: black;
+text-align: right;
+empty-cells: show;
+table-layout:fixed;
+width:42.8%;
+
+}
+
+table {
+  background-color: white;
+
+}
+p.small {
+    line-height: 70%;
+}
+
+p.big {
+    line-height: 300%;
+}
