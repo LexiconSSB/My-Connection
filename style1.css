@@ -7,7 +7,7 @@ text-align: right;
 empty-cells: show;
 table-layout:fixed;
 width:42.8%;
-
+background-color: inherit;
 }
 
 table {
