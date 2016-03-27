@@ -3,11 +3,11 @@ strong {color: black;}
 #loginTable{
 border-style: solid;
 border-color: black;
-text-align: right;
 empty-cells: show;
+text-align: right;
 table-layout:fixed;
-width:42.8%;
-background-color: inherit;
+width: 30.5%
+
 }
 
 table {
@@ -19,5 +19,5 @@ p.small {
 }
 
 p.big {
-    line-height: 300%;
+    line-height: 400%;
 }
